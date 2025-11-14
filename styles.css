@@ -13,16 +13,31 @@
   background-color: white;
   margin-left: 10%;
   margin-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.body:hover {
+	border: solid, 2px, blue;
+  border-radius: 5px;
 }
 .txt1{
   font-family: Comic Sans MS;
   text-align: center;
 }
+.txt2{
+  font-family: Comic Sans MS;
+  text-align: center;
+  padding-top:2%;
+}
 .imgSl{
-  width: 10%;
+  width: 20%;
 }
 .imgMd{
   width: 50%;
+}
+.imgMd:hover {
+	border: solid, 2px, blue;
+  border-radius: 3%;
 }
 .imgLg{
   width: 70%;
