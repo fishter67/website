@@ -1,0 +1,29 @@
+.background{
+  background-color:olive;
+}
+.title{
+  font-family: Comic Sans MS;
+  text-align: center;
+}
+.txt{
+  font-family: Comic Sans MS;
+}
+.body{
+  text-align: center;
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.txt1{
+  font-family: Comic Sans MS;
+  text-align: center;
+}
+.imgSl{
+  width: 10%;
+}
+.imgMd{
+  width: 50%;
+}
+.imgLg{
+  width: 70%;
+}
